@@ -1,0 +1,16 @@
+.container{
+    margin:40px 80px;
+    background-color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container a{
+    text-decoration: none;
+    color: blue;
+}
+.container a:hover{
+    text-decoration: underline;
+}
+.heading{
+    margin-top: 2%
+    ;
+}
